@@ -1,0 +1,15 @@
+.file-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.file-table th,
+.file-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.file-table th {
+  background-color: #f2f2f2;
+}
